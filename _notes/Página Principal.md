@@ -1,0 +1,43 @@
+---
+Cssclass:dashboard
+---
+# Mundo
+- Mundo
+	- [[Mundo de Wyrmirgärd]]
+- Continente
+	- [[Continente de Avantasia]]
+- Cidades 
+	- [[Válor]]
+	- [[Metrover]]
+	- [[Avalorian]]
+	- [[Lyra]]
+	- [[Purlovia]]
+	- [[Quincytown]]
+	- [[Zöun]]
+- Histórias
+	- [[Reboot Avantasia|Reboot Avantasia]]
+	- [[Cataclisma dos Anões|Cataclisma dos Anões]]
+- Facções
+	- [[Guilda dos Ladrões]]
+
+# NPC's
+- NPC's Importantes
+	- [[Camael Heavenfist]]
+	- [[Ambriel Heavenfist]]
+	- [[Uruk Ravenstrider]]
+	- [[Twitch]]
+	- [[Fanalyn Zinsadoral]]
+	- [[Valarian Elenhir]]
+	- [[Salvodoro Dread]]
+	- [[Garra do Trovão]]
+	- [[Lexor de Lyra]]
+	- [[Evra Varod]]
+	- [[Krillgegg Tiamat]]
+	- [[Fjordr Terceiro]]
+	- [[Hyxdae, a Amazona]]
+- NPC's
+	- [[Lettza Keller]]
+	- [[Leslie Keller]]
+	- [[Alice Collins]]
+	- [[Fuzzy, o Goblin]]
+	- [[Viktor Zolomon]]
