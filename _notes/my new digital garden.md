@@ -1,6 +1,4 @@
----
-Cssclass:dashboard
----
+    --- title: my new digital garden ---
 # Mundo
 - Mundo
 	- [[Mundo de Wyrmirgärd]]
