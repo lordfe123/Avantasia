@@ -1,0 +1,1 @@
+Avantasia terá 8 provincias principais, sendo 3 delas cidades grandes, 1 cidade pequena, 1 capital, 2 metrópolis e 1 cidade-estado.
